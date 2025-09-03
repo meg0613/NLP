@@ -1,0 +1,1 @@
+# Configuration file (if needed in future for API keys, etc.)
